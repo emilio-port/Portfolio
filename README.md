@@ -4,7 +4,7 @@
 
 I'm a passionate computer science student graduating in December. I enjoy upgrading computers and troubleshooting errors. I recently switched the OS on my windows laptop to Linux through research and trial and error. I'm currently exploring the world of information technology and low code solutions. I'm also certified in Data Analysis!
 
-## Certificates I am working on
+## Certificates In Progress
 CompTIA A+
 
 Salesforce Platform Admin
