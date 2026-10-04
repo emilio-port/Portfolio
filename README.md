@@ -1,11 +1,12 @@
 # Hi, I'm Emilio!
 
-### Aspiring Solutions Engineer | IT Specialist role
+### Aspiring Cybersecurity Analyst
 
-I'm a passionate computer science student graduating in December. I enjoy upgrading computers and troubleshooting errors. I recently switched the OS on my windows laptop to Linux through research and trial and error. I'm currently exploring the world of information technology and low code solutions. I'm also certified in Data Analysis!
+I'm a passionate Cybersecurity student graduating in December 2027. I enjoy upgrading computers and troubleshooting network errors. I recently switched the OS on my windows laptop to Linux through research and trial and error. I'm currently exploring the world of information technology and low code solutions. I'm also certified in Data Analysis!
 
 ## Certificates In Progress
 CompTIA A+
+CompTIA Network+
 
 
 Connect with me
